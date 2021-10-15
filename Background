@@ -1,0 +1,8 @@
+In these projects, I used arrays to store the number and rank of the deck. Then, for each shuffle, I randomly generated 
+a number and rank (Ace heart, for example).
+
+For Three and Four Card Poker game, I built various brute force algorithms that are able to combine the dealer's and player's hand 
+in order to detect hands such as flush, royal flush, straight, three of a kind, two pairs, etc. After detecting a specific hand, it will award 
+the player correspondingly.
+
+For Blackjack, the program can detect if it's a bust or blackjack. It can split into 2 hands as well, based on the player's preference. 
